@@ -1,0 +1,604 @@
+Thu Jun 18 19:52:05 UTC 2026: START NEW LOOP
+Thu Jun 18 19:52:05 UTC 2026: Set CPU scaling governer to powersave
+Thu Jun 18 19:52:05 UTC 2026: Set prevent screen saver to true
+Thu Jun 18 19:52:06 UTC 2026: Battery: isCharging=0 percentage=99% current=-147 mA
+Thu Jun 18 19:52:06 UTC 2026: Remaining battery 99
+Thu Jun 18 19:52:06 UTC 2026: Enabling and checking wifi
+Thu Jun 18 19:52:06 UTC 2026: Connected to wifi
+Thu Jun 18 19:52:07 UTC 2026: Found default gateway 192.168.178.1
+Thu Jun 18 19:52:07 UTC 2026: Ping worked successfully
+Thu Jun 18 19:52:16 UTC 2026: Download result 
+Thu Jun 18 19:52:16 UTC 2026: Screen saver image file updated
+Thu Jun 18 19:52:19 UTC 2026: Removed temporary files
+Thu Jun 18 19:52:30 UTC 2026: SUCCESS, will update again on 1781812400
+Thu Jun 18 19:53:32 UTC 2026: START NEW LOOP
+Thu Jun 18 19:53:32 UTC 2026: Set CPU scaling governer to powersave
+Thu Jun 18 19:53:32 UTC 2026: Set prevent screen saver to true
+Thu Jun 18 19:53:33 UTC 2026: Battery: isCharging=0 percentage=99% current=-48 mA
+Thu Jun 18 19:53:33 UTC 2026: Remaining battery 99
+Thu Jun 18 19:53:33 UTC 2026: Enabling and checking wifi
+Thu Jun 18 19:53:34 UTC 2026: Connected to wifi
+Thu Jun 18 19:53:34 UTC 2026: Found default gateway 192.168.178.1
+Thu Jun 18 19:53:39 UTC 2026: Waiting for working ping 1
+Thu Jun 18 19:53:39 UTC 2026: Trying to set route gateway to 192.168.178.1
+Thu Jun 18 19:53:40 UTC 2026: Ping worked successfully
+Thu Jun 18 19:53:49 UTC 2026: Download result 
+Thu Jun 18 19:53:49 UTC 2026: Screen saver image file updated
+Thu Jun 18 19:53:52 UTC 2026: Removed temporary files
+Thu Jun 18 19:54:02 UTC 2026: SUCCESS, will update again on 1781812492
+Thu Jun 18 20:00:00 UTC 2026: START NEW LOOP
+Thu Jun 18 20:00:00 UTC 2026: Set CPU scaling governer to powersave
+Thu Jun 18 20:00:00 UTC 2026: Set prevent screen saver to true
+Thu Jun 18 20:00:01 UTC 2026: Battery: isCharging=0 percentage=99% current=-42 mA
+Thu Jun 18 20:00:01 UTC 2026: Remaining battery 99
+Thu Jun 18 20:00:01 UTC 2026: Enabling and checking wifi
+Thu Jun 18 20:00:05 UTC 2026: Connected to wifi
+Thu Jun 18 20:00:07 UTC 2026: Found default gateway 192.168.178.1
+Thu Jun 18 20:00:07 UTC 2026: Ping worked successfully
+Thu Jun 18 20:00:21 UTC 2026: Download result 
+Thu Jun 18 20:00:21 UTC 2026: Screen saver image file updated
+Thu Jun 18 20:00:24 UTC 2026: Removed temporary files
+Thu Jun 18 20:00:34 UTC 2026: SUCCESS, will update again on 1781816424
+Thu Jun 18 21:00:36 UTC 2026: START NEW LOOP
+Thu Jun 18 21:00:36 UTC 2026: Set CPU scaling governer to powersave
+Thu Jun 18 21:00:36 UTC 2026: Set prevent screen saver to true
+Thu Jun 18 21:00:37 UTC 2026: Battery: isCharging=0 percentage=99% current=-44 mA
+Thu Jun 18 21:00:37 UTC 2026: Remaining battery 99
+Thu Jun 18 21:00:37 UTC 2026: Enabling and checking wifi
+Thu Jun 18 21:00:38 UTC 2026: Connected to wifi
+Thu Jun 18 21:00:38 UTC 2026: Found default gateway 192.168.178.1
+Thu Jun 18 21:00:38 UTC 2026: Ping worked successfully
+Thu Jun 18 21:00:46 UTC 2026: Download result 
+Thu Jun 18 21:00:46 UTC 2026: Screen saver image file updated
+Thu Jun 18 21:00:49 UTC 2026: Removed temporary files
+Thu Jun 18 21:00:59 UTC 2026: SUCCESS, will update again on 1781820049
+Thu Jun 18 22:01:00 UTC 2026: START NEW LOOP
+Thu Jun 18 22:01:01 UTC 2026: Set CPU scaling governer to powersave
+Thu Jun 18 22:01:01 UTC 2026: Set prevent screen saver to true
+Thu Jun 18 22:01:01 UTC 2026: Battery: isCharging=0 percentage=99% current=-21 mA
+Thu Jun 18 22:01:02 UTC 2026: Remaining battery 99
+Thu Jun 18 22:01:02 UTC 2026: Enabling and checking wifi
+Thu Jun 18 22:01:02 UTC 2026: Connected to wifi
+Thu Jun 18 22:01:02 UTC 2026: Found default gateway 192.168.178.1
+Thu Jun 18 22:01:07 UTC 2026: Ping worked successfully
+Thu Jun 18 22:01:17 UTC 2026: Download result 
+Thu Jun 18 22:01:17 UTC 2026: Screen saver image file updated
+Thu Jun 18 22:01:20 UTC 2026: Removed temporary files
+Thu Jun 18 22:01:30 UTC 2026: SUCCESS, will update again on 1781823680
+Thu Jun 18 23:01:33 UTC 2026: START NEW LOOP
+Thu Jun 18 23:01:33 UTC 2026: Set CPU scaling governer to powersave
+Thu Jun 18 23:01:33 UTC 2026: Set prevent screen saver to true
+Thu Jun 18 23:01:34 UTC 2026: Battery: isCharging=0 percentage=99% current=-46 mA
+Thu Jun 18 23:01:34 UTC 2026: Remaining battery 99
+Thu Jun 18 23:01:34 UTC 2026: Enabling and checking wifi
+Thu Jun 18 23:01:34 UTC 2026: Connected to wifi
+Thu Jun 18 23:01:34 UTC 2026: Found default gateway 192.168.178.1
+Thu Jun 18 23:01:40 UTC 2026: Waiting for working ping 1
+Thu Jun 18 23:01:40 UTC 2026: Trying to set route gateway to 192.168.178.1
+Thu Jun 18 23:01:41 UTC 2026: Ping worked successfully
+Thu Jun 18 23:01:50 UTC 2026: Download result 
+Thu Jun 18 23:01:50 UTC 2026: Screen saver image file updated
+Thu Jun 18 23:01:53 UTC 2026: Removed temporary files
+Thu Jun 18 23:02:04 UTC 2026: SUCCESS, will update again on 1781827314
+Fri Jun 19 00:02:06 UTC 2026: START NEW LOOP
+Fri Jun 19 00:02:06 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 00:02:06 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 00:02:07 UTC 2026: Battery: isCharging=0 percentage=98% current=-41 mA
+Fri Jun 19 00:02:07 UTC 2026: Remaining battery 98
+Fri Jun 19 00:02:07 UTC 2026: Enabling and checking wifi
+Fri Jun 19 00:02:08 UTC 2026: Connected to wifi
+Fri Jun 19 00:02:08 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 00:02:13 UTC 2026: Ping worked successfully
+Fri Jun 19 00:02:22 UTC 2026: Download result 
+Fri Jun 19 00:02:22 UTC 2026: Screen saver image file updated
+Fri Jun 19 00:02:24 UTC 2026: Removed temporary files
+Fri Jun 19 00:02:35 UTC 2026: SUCCESS, will update again on 1781830945
+Fri Jun 19 01:02:37 UTC 2026: START NEW LOOP
+Fri Jun 19 01:02:37 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 01:02:37 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 01:02:38 UTC 2026: Battery: isCharging=0 percentage=98% current=-48 mA
+Fri Jun 19 01:02:38 UTC 2026: Remaining battery 98
+Fri Jun 19 01:02:38 UTC 2026: Enabling and checking wifi
+Fri Jun 19 01:02:38 UTC 2026: Connected to wifi
+Fri Jun 19 01:02:39 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 01:02:39 UTC 2026: Ping worked successfully
+Fri Jun 19 01:02:48 UTC 2026: Download result 
+Fri Jun 19 01:02:48 UTC 2026: Screen saver image file updated
+Fri Jun 19 01:02:50 UTC 2026: Removed temporary files
+Fri Jun 19 01:03:01 UTC 2026: SUCCESS, will update again on 1781834571
+Fri Jun 19 02:03:03 UTC 2026: START NEW LOOP
+Fri Jun 19 02:03:03 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 02:03:03 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 02:03:04 UTC 2026: Battery: isCharging=0 percentage=98% current=-57 mA
+Fri Jun 19 02:03:04 UTC 2026: Remaining battery 98
+Fri Jun 19 02:03:04 UTC 2026: Enabling and checking wifi
+Fri Jun 19 02:03:05 UTC 2026: Connected to wifi
+Fri Jun 19 02:03:05 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 02:03:05 UTC 2026: Ping worked successfully
+Fri Jun 19 02:03:14 UTC 2026: Download result 
+Fri Jun 19 02:03:14 UTC 2026: Screen saver image file updated
+Fri Jun 19 02:03:16 UTC 2026: Removed temporary files
+Fri Jun 19 02:03:27 UTC 2026: SUCCESS, will update again on 1781838197
+Fri Jun 19 03:03:29 UTC 2026: START NEW LOOP
+Fri Jun 19 03:03:29 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 03:03:29 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 03:03:30 UTC 2026: Battery: isCharging=0 percentage=98% current=-21 mA
+Fri Jun 19 03:03:30 UTC 2026: Remaining battery 98
+Fri Jun 19 03:03:30 UTC 2026: Enabling and checking wifi
+Fri Jun 19 03:03:30 UTC 2026: Connected to wifi
+Fri Jun 19 03:03:31 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 03:03:31 UTC 2026: Ping worked successfully
+Fri Jun 19 03:03:39 UTC 2026: Download result 
+Fri Jun 19 03:03:39 UTC 2026: Screen saver image file updated
+Fri Jun 19 03:03:42 UTC 2026: Removed temporary files
+Fri Jun 19 03:03:52 UTC 2026: SUCCESS, will update again on 1781841822
+Fri Jun 19 04:03:54 UTC 2026: START NEW LOOP
+Fri Jun 19 04:03:54 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 04:03:54 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 04:03:55 UTC 2026: Battery: isCharging=0 percentage=98% current=-57 mA
+Fri Jun 19 04:03:55 UTC 2026: Remaining battery 98
+Fri Jun 19 04:03:55 UTC 2026: Enabling and checking wifi
+Fri Jun 19 04:03:56 UTC 2026: Connected to wifi
+Fri Jun 19 04:03:56 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 04:03:56 UTC 2026: Ping worked successfully
+Fri Jun 19 04:04:05 UTC 2026: Download result 
+Fri Jun 19 04:04:05 UTC 2026: Screen saver image file updated
+Fri Jun 19 04:04:08 UTC 2026: Removed temporary files
+Fri Jun 19 04:04:18 UTC 2026: SUCCESS, will update again on 1781845448
+Fri Jun 19 05:04:20 UTC 2026: START NEW LOOP
+Fri Jun 19 05:04:21 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 05:04:21 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 05:04:22 UTC 2026: Battery: isCharging=0 percentage=98% current=-53 mA
+Fri Jun 19 05:04:22 UTC 2026: Remaining battery 98
+Fri Jun 19 05:04:22 UTC 2026: Enabling and checking wifi
+Fri Jun 19 05:04:22 UTC 2026: Connected to wifi
+Fri Jun 19 05:04:22 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 05:04:23 UTC 2026: Ping worked successfully
+Fri Jun 19 05:04:31 UTC 2026: Download result 
+Fri Jun 19 05:04:32 UTC 2026: Screen saver image file updated
+Fri Jun 19 05:04:34 UTC 2026: Removed temporary files
+Fri Jun 19 05:04:45 UTC 2026: SUCCESS, will update again on 1781849075
+Fri Jun 19 06:04:47 UTC 2026: START NEW LOOP
+Fri Jun 19 06:04:47 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 06:04:47 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 06:04:48 UTC 2026: Battery: isCharging=0 percentage=97% current=-57 mA
+Fri Jun 19 06:04:48 UTC 2026: Remaining battery 97
+Fri Jun 19 06:04:48 UTC 2026: Enabling and checking wifi
+Fri Jun 19 06:04:49 UTC 2026: Connected to wifi
+Fri Jun 19 06:04:49 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 06:04:49 UTC 2026: Ping worked successfully
+Fri Jun 19 06:04:57 UTC 2026: Download result 
+Fri Jun 19 06:04:58 UTC 2026: Screen saver image file updated
+Fri Jun 19 06:05:00 UTC 2026: Removed temporary files
+Fri Jun 19 06:05:10 UTC 2026: SUCCESS, will update again on 1781852700
+Fri Jun 19 07:05:11 UTC 2026: START NEW LOOP
+Fri Jun 19 07:05:12 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 07:05:12 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 07:05:13 UTC 2026: Battery: isCharging=0 percentage=97% current=-57 mA
+Fri Jun 19 07:05:13 UTC 2026: Remaining battery 97
+Fri Jun 19 07:05:13 UTC 2026: Enabling and checking wifi
+Fri Jun 19 07:05:13 UTC 2026: Connected to wifi
+Fri Jun 19 07:05:13 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 07:05:19 UTC 2026: Ping worked successfully
+Fri Jun 19 07:05:28 UTC 2026: Download result 
+Fri Jun 19 07:05:28 UTC 2026: Screen saver image file updated
+Fri Jun 19 07:05:30 UTC 2026: Removed temporary files
+Fri Jun 19 07:05:41 UTC 2026: SUCCESS, will update again on 1781856331
+Fri Jun 19 08:05:43 UTC 2026: START NEW LOOP
+Fri Jun 19 08:05:43 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 08:05:43 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 08:05:44 UTC 2026: Battery: isCharging=0 percentage=97% current=-48 mA
+Fri Jun 19 08:05:44 UTC 2026: Remaining battery 97
+Fri Jun 19 08:05:44 UTC 2026: Enabling and checking wifi
+Fri Jun 19 08:05:45 UTC 2026: Connected to wifi
+Fri Jun 19 08:05:45 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 08:05:45 UTC 2026: Ping worked successfully
+Fri Jun 19 08:05:54 UTC 2026: Download result 
+Fri Jun 19 08:05:54 UTC 2026: Screen saver image file updated
+Fri Jun 19 08:05:57 UTC 2026: Removed temporary files
+Fri Jun 19 08:06:07 UTC 2026: SUCCESS, will update again on 1781859957
+Fri Jun 19 09:06:09 UTC 2026: START NEW LOOP
+Fri Jun 19 09:06:09 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 09:06:10 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 09:06:11 UTC 2026: Battery: isCharging=0 percentage=97% current=-61 mA
+Fri Jun 19 09:06:11 UTC 2026: Remaining battery 97
+Fri Jun 19 09:06:11 UTC 2026: Enabling and checking wifi
+Fri Jun 19 09:06:11 UTC 2026: Connected to wifi
+Fri Jun 19 09:06:12 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 09:06:12 UTC 2026: Ping worked successfully
+Fri Jun 19 09:06:21 UTC 2026: Download result 
+Fri Jun 19 09:06:21 UTC 2026: Screen saver image file updated
+Fri Jun 19 09:06:23 UTC 2026: Removed temporary files
+Fri Jun 19 09:06:34 UTC 2026: SUCCESS, will update again on 1781863583
+Fri Jun 19 10:06:36 UTC 2026: START NEW LOOP
+Fri Jun 19 10:06:36 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 10:06:36 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 10:06:37 UTC 2026: Battery: isCharging=0 percentage=97% current=-58 mA
+Fri Jun 19 10:06:37 UTC 2026: Remaining battery 97
+Fri Jun 19 10:06:37 UTC 2026: Enabling and checking wifi
+Fri Jun 19 10:06:37 UTC 2026: Connected to wifi
+Fri Jun 19 10:06:38 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 10:06:38 UTC 2026: Ping worked successfully
+Fri Jun 19 10:06:46 UTC 2026: Download result 
+Fri Jun 19 10:06:46 UTC 2026: Screen saver image file updated
+Fri Jun 19 10:06:49 UTC 2026: Removed temporary files
+Fri Jun 19 10:06:59 UTC 2026: SUCCESS, will update again on 1781867209
+Fri Jun 19 11:07:02 UTC 2026: START NEW LOOP
+Fri Jun 19 11:07:02 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 11:07:02 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 11:07:03 UTC 2026: Battery: isCharging=0 percentage=97% current=-58 mA
+Fri Jun 19 11:07:03 UTC 2026: Remaining battery 97
+Fri Jun 19 11:07:03 UTC 2026: Enabling and checking wifi
+Fri Jun 19 11:07:04 UTC 2026: Connected to wifi
+Fri Jun 19 11:07:04 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 11:07:04 UTC 2026: Ping worked successfully
+Fri Jun 19 11:07:12 UTC 2026: Download result 
+Fri Jun 19 11:07:13 UTC 2026: Screen saver image file updated
+Fri Jun 19 11:07:15 UTC 2026: Removed temporary files
+Fri Jun 19 11:07:26 UTC 2026: SUCCESS, will update again on 1781870836
+Fri Jun 19 12:07:28 UTC 2026: START NEW LOOP
+Fri Jun 19 12:07:28 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 12:07:28 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 12:07:29 UTC 2026: Battery: isCharging=0 percentage=97% current=-58 mA
+Fri Jun 19 12:07:29 UTC 2026: Remaining battery 97
+Fri Jun 19 12:07:29 UTC 2026: Enabling and checking wifi
+Fri Jun 19 12:07:29 UTC 2026: Connected to wifi
+Fri Jun 19 12:07:29 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 12:07:35 UTC 2026: Ping worked successfully
+Fri Jun 19 12:07:44 UTC 2026: Download result 
+Fri Jun 19 12:07:44 UTC 2026: Screen saver image file updated
+Fri Jun 19 12:07:46 UTC 2026: Removed temporary files
+Fri Jun 19 12:07:57 UTC 2026: SUCCESS, will update again on 1781874467
+Fri Jun 19 13:07:58 UTC 2026: START NEW LOOP
+Fri Jun 19 13:07:59 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 13:07:59 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 13:08:00 UTC 2026: Battery: isCharging=0 percentage=97% current=-46 mA
+Fri Jun 19 13:08:00 UTC 2026: Remaining battery 97
+Fri Jun 19 13:08:00 UTC 2026: Enabling and checking wifi
+Fri Jun 19 13:08:00 UTC 2026: Connected to wifi
+Fri Jun 19 13:08:00 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 13:08:01 UTC 2026: Ping worked successfully
+Fri Jun 19 13:08:09 UTC 2026: Download result 
+Fri Jun 19 13:08:09 UTC 2026: Screen saver image file updated
+Fri Jun 19 13:08:12 UTC 2026: Removed temporary files
+Fri Jun 19 13:08:22 UTC 2026: SUCCESS, will update again on 1781878092
+Fri Jun 19 14:08:24 UTC 2026: START NEW LOOP
+Fri Jun 19 14:08:24 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 14:08:24 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 14:08:25 UTC 2026: Battery: isCharging=0 percentage=96% current=-51 mA
+Fri Jun 19 14:08:25 UTC 2026: Remaining battery 96
+Fri Jun 19 14:08:25 UTC 2026: Enabling and checking wifi
+Fri Jun 19 14:08:26 UTC 2026: Connected to wifi
+Fri Jun 19 14:08:26 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 14:08:31 UTC 2026: Ping worked successfully
+Fri Jun 19 14:08:39 UTC 2026: Download result 
+Fri Jun 19 14:08:40 UTC 2026: Screen saver image file updated
+Fri Jun 19 14:08:42 UTC 2026: Removed temporary files
+Fri Jun 19 14:08:52 UTC 2026: SUCCESS, will update again on 1781881722
+Fri Jun 19 15:08:54 UTC 2026: START NEW LOOP
+Fri Jun 19 15:08:55 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 15:08:55 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 15:08:56 UTC 2026: Battery: isCharging=0 percentage=96% current=-54 mA
+Fri Jun 19 15:08:56 UTC 2026: Remaining battery 96
+Fri Jun 19 15:08:56 UTC 2026: Enabling and checking wifi
+Fri Jun 19 15:08:56 UTC 2026: Connected to wifi
+Fri Jun 19 15:08:57 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 15:08:57 UTC 2026: Ping worked successfully
+Fri Jun 19 15:09:05 UTC 2026: Download result 
+Fri Jun 19 15:09:05 UTC 2026: Screen saver image file updated
+Fri Jun 19 15:09:07 UTC 2026: Removed temporary files
+Fri Jun 19 15:09:18 UTC 2026: SUCCESS, will update again on 1781885348
+Fri Jun 19 16:09:20 UTC 2026: START NEW LOOP
+Fri Jun 19 16:09:20 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 16:09:20 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 16:09:21 UTC 2026: Battery: isCharging=0 percentage=96% current=-22 mA
+Fri Jun 19 16:09:21 UTC 2026: Remaining battery 96
+Fri Jun 19 16:09:21 UTC 2026: Enabling and checking wifi
+Fri Jun 19 16:09:22 UTC 2026: Connected to wifi
+Fri Jun 19 16:09:22 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 16:09:22 UTC 2026: Ping worked successfully
+Fri Jun 19 16:09:30 UTC 2026: Download result 
+Fri Jun 19 16:09:31 UTC 2026: Screen saver image file updated
+Fri Jun 19 16:09:33 UTC 2026: Removed temporary files
+Fri Jun 19 16:09:43 UTC 2026: SUCCESS, will update again on 1781888973
+Fri Jun 19 17:09:45 UTC 2026: START NEW LOOP
+Fri Jun 19 17:09:45 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 17:09:45 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 17:09:46 UTC 2026: Battery: isCharging=0 percentage=96% current=-18 mA
+Fri Jun 19 17:09:46 UTC 2026: Remaining battery 96
+Fri Jun 19 17:09:46 UTC 2026: Enabling and checking wifi
+Fri Jun 19 17:09:46 UTC 2026: Connected to wifi
+Fri Jun 19 17:09:47 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 17:09:47 UTC 2026: Ping worked successfully
+Fri Jun 19 17:09:55 UTC 2026: Download result 
+Fri Jun 19 17:09:56 UTC 2026: Screen saver image file updated
+Fri Jun 19 17:09:58 UTC 2026: Removed temporary files
+Fri Jun 19 17:10:09 UTC 2026: SUCCESS, will update again on 1781892599
+Fri Jun 19 18:10:11 UTC 2026: START NEW LOOP
+Fri Jun 19 18:10:11 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 18:10:11 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 18:10:12 UTC 2026: Battery: isCharging=0 percentage=96% current=-25 mA
+Fri Jun 19 18:10:12 UTC 2026: Remaining battery 96
+Fri Jun 19 18:10:12 UTC 2026: Enabling and checking wifi
+Fri Jun 19 18:10:13 UTC 2026: Connected to wifi
+Fri Jun 19 18:10:13 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 18:10:13 UTC 2026: Ping worked successfully
+Fri Jun 19 18:10:22 UTC 2026: Download result 
+Fri Jun 19 18:10:22 UTC 2026: Screen saver image file updated
+Fri Jun 19 18:10:25 UTC 2026: Removed temporary files
+Fri Jun 19 18:10:35 UTC 2026: SUCCESS, will update again on 1781896225
+Fri Jun 19 19:10:37 UTC 2026: START NEW LOOP
+Fri Jun 19 19:10:37 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 19:10:37 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 19:10:38 UTC 2026: Battery: isCharging=0 percentage=96% current=-30 mA
+Fri Jun 19 19:10:38 UTC 2026: Remaining battery 96
+Fri Jun 19 19:10:38 UTC 2026: Enabling and checking wifi
+Fri Jun 19 19:10:39 UTC 2026: Connected to wifi
+Fri Jun 19 19:10:39 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 19:10:49 UTC 2026: Waiting for working ping 1
+Fri Jun 19 19:10:49 UTC 2026: Trying to set route gateway to 192.168.178.1
+Fri Jun 19 19:10:51 UTC 2026: Ping worked successfully
+Fri Jun 19 19:11:00 UTC 2026: Download result 
+Fri Jun 19 19:11:00 UTC 2026: Screen saver image file updated
+Fri Jun 19 19:11:02 UTC 2026: Removed temporary files
+Fri Jun 19 19:11:12 UTC 2026: SUCCESS, will update again on 1781899862
+Fri Jun 19 20:11:15 UTC 2026: START NEW LOOP
+Fri Jun 19 20:11:15 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 20:11:15 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 20:11:16 UTC 2026: Battery: isCharging=0 percentage=96% current=-28 mA
+Fri Jun 19 20:11:16 UTC 2026: Remaining battery 96
+Fri Jun 19 20:11:16 UTC 2026: Enabling and checking wifi
+Fri Jun 19 20:11:16 UTC 2026: Connected to wifi
+Fri Jun 19 20:11:17 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 20:11:17 UTC 2026: Ping worked successfully
+Fri Jun 19 20:11:25 UTC 2026: Download result 
+Fri Jun 19 20:11:25 UTC 2026: Screen saver image file updated
+Fri Jun 19 20:11:28 UTC 2026: Removed temporary files
+Fri Jun 19 20:11:38 UTC 2026: SUCCESS, will update again on 1781903488
+Fri Jun 19 21:11:41 UTC 2026: START NEW LOOP
+Fri Jun 19 21:11:41 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 21:11:41 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 21:11:42 UTC 2026: Battery: isCharging=0 percentage=95% current=-60 mA
+Fri Jun 19 21:11:42 UTC 2026: Remaining battery 95
+Fri Jun 19 21:11:42 UTC 2026: Enabling and checking wifi
+Fri Jun 19 21:11:42 UTC 2026: Connected to wifi
+Fri Jun 19 21:11:43 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 21:11:43 UTC 2026: Ping worked successfully
+Fri Jun 19 21:11:52 UTC 2026: Download result 
+Fri Jun 19 21:11:52 UTC 2026: Screen saver image file updated
+Fri Jun 19 21:11:55 UTC 2026: Removed temporary files
+Fri Jun 19 21:12:05 UTC 2026: SUCCESS, will update again on 1781907115
+Fri Jun 19 22:12:07 UTC 2026: START NEW LOOP
+Fri Jun 19 22:12:07 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 22:12:07 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 22:12:08 UTC 2026: Battery: isCharging=0 percentage=95% current=-63 mA
+Fri Jun 19 22:12:08 UTC 2026: Remaining battery 95
+Fri Jun 19 22:12:08 UTC 2026: Enabling and checking wifi
+Fri Jun 19 22:12:09 UTC 2026: Connected to wifi
+Fri Jun 19 22:12:09 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 22:12:09 UTC 2026: Ping worked successfully
+Fri Jun 19 22:12:18 UTC 2026: Download result 
+Fri Jun 19 22:12:18 UTC 2026: Screen saver image file updated
+Fri Jun 19 22:12:20 UTC 2026: Removed temporary files
+Fri Jun 19 22:12:31 UTC 2026: SUCCESS, will update again on 1781910741
+Fri Jun 19 23:12:33 UTC 2026: START NEW LOOP
+Fri Jun 19 23:12:33 UTC 2026: Set CPU scaling governer to powersave
+Fri Jun 19 23:12:34 UTC 2026: Set prevent screen saver to true
+Fri Jun 19 23:12:34 UTC 2026: Battery: isCharging=0 percentage=95% current=-60 mA
+Fri Jun 19 23:12:34 UTC 2026: Remaining battery 95
+Fri Jun 19 23:12:34 UTC 2026: Enabling and checking wifi
+Fri Jun 19 23:12:35 UTC 2026: Connected to wifi
+Fri Jun 19 23:12:35 UTC 2026: Found default gateway 192.168.178.1
+Fri Jun 19 23:12:40 UTC 2026: Ping worked successfully
+Fri Jun 19 23:12:49 UTC 2026: Download result 
+Fri Jun 19 23:12:49 UTC 2026: Screen saver image file updated
+Fri Jun 19 23:12:51 UTC 2026: Removed temporary files
+Fri Jun 19 23:13:02 UTC 2026: SUCCESS, will update again on 1781914371
+Sat Jun 20 00:13:03 UTC 2026: START NEW LOOP
+Sat Jun 20 00:13:04 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 00:13:04 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 00:13:05 UTC 2026: Battery: isCharging=0 percentage=95% current=-58 mA
+Sat Jun 20 00:13:05 UTC 2026: Remaining battery 95
+Sat Jun 20 00:13:05 UTC 2026: Enabling and checking wifi
+Sat Jun 20 00:13:05 UTC 2026: Connected to wifi
+Sat Jun 20 00:13:05 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 00:13:06 UTC 2026: Ping worked successfully
+Sat Jun 20 00:13:31 UTC 2026: Download result 
+Sat Jun 20 00:13:31 UTC 2026: Screen saver image file updated
+Sat Jun 20 00:13:33 UTC 2026: Removed temporary files
+Sat Jun 20 00:13:43 UTC 2026: SUCCESS, will update again on 1781918013
+Sat Jun 20 01:13:46 UTC 2026: START NEW LOOP
+Sat Jun 20 01:13:46 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 01:13:46 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 01:13:47 UTC 2026: Battery: isCharging=0 percentage=95% current=-19 mA
+Sat Jun 20 01:13:47 UTC 2026: Remaining battery 95
+Sat Jun 20 01:13:47 UTC 2026: Enabling and checking wifi
+Sat Jun 20 01:13:47 UTC 2026: Connected to wifi
+Sat Jun 20 01:13:47 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 01:13:53 UTC 2026: Ping worked successfully
+Sat Jun 20 01:14:02 UTC 2026: Download result 
+Sat Jun 20 01:14:02 UTC 2026: Screen saver image file updated
+Sat Jun 20 01:14:05 UTC 2026: Removed temporary files
+Sat Jun 20 01:14:15 UTC 2026: SUCCESS, will update again on 1781921645
+Sat Jun 20 02:14:17 UTC 2026: START NEW LOOP
+Sat Jun 20 02:14:17 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 02:14:17 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 02:14:18 UTC 2026: Battery: isCharging=0 percentage=95% current=-49 mA
+Sat Jun 20 02:14:18 UTC 2026: Remaining battery 95
+Sat Jun 20 02:14:18 UTC 2026: Enabling and checking wifi
+Sat Jun 20 02:14:18 UTC 2026: Connected to wifi
+Sat Jun 20 02:14:19 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 02:14:24 UTC 2026: Ping worked successfully
+Sat Jun 20 02:15:13 UTC 2026: Download result 
+Sat Jun 20 02:15:13 UTC 2026: Screen saver image file updated
+Sat Jun 20 02:15:16 UTC 2026: Removed temporary files
+Sat Jun 20 02:15:26 UTC 2026: SUCCESS, will update again on 1781925316
+Sat Jun 20 03:15:28 UTC 2026: START NEW LOOP
+Sat Jun 20 03:15:28 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 03:15:28 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 03:15:29 UTC 2026: Battery: isCharging=0 percentage=95% current=-25 mA
+Sat Jun 20 03:15:29 UTC 2026: Remaining battery 95
+Sat Jun 20 03:15:29 UTC 2026: Enabling and checking wifi
+Sat Jun 20 03:15:29 UTC 2026: Connected to wifi
+Sat Jun 20 03:15:30 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 03:15:35 UTC 2026: Ping worked successfully
+Sat Jun 20 03:15:43 UTC 2026: Download result 
+Sat Jun 20 03:15:44 UTC 2026: Screen saver image file updated
+Sat Jun 20 03:15:46 UTC 2026: Removed temporary files
+Sat Jun 20 03:15:56 UTC 2026: SUCCESS, will update again on 1781928946
+Sat Jun 20 04:15:57 UTC 2026: START NEW LOOP
+Sat Jun 20 04:15:58 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 04:15:58 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 04:15:59 UTC 2026: Battery: isCharging=0 percentage=94% current=-51 mA
+Sat Jun 20 04:15:59 UTC 2026: Remaining battery 94
+Sat Jun 20 04:15:59 UTC 2026: Enabling and checking wifi
+Sat Jun 20 04:15:59 UTC 2026: Connected to wifi
+Sat Jun 20 04:16:00 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 04:16:00 UTC 2026: Ping worked successfully
+Sat Jun 20 04:16:08 UTC 2026: Download result 
+Sat Jun 20 04:16:08 UTC 2026: Screen saver image file updated
+Sat Jun 20 04:16:11 UTC 2026: Removed temporary files
+Sat Jun 20 04:16:21 UTC 2026: SUCCESS, will update again on 1781932571
+Sat Jun 20 05:16:24 UTC 2026: START NEW LOOP
+Sat Jun 20 05:16:24 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 05:16:24 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 05:16:25 UTC 2026: Battery: isCharging=0 percentage=94% current=-59 mA
+Sat Jun 20 05:16:25 UTC 2026: Remaining battery 94
+Sat Jun 20 05:16:25 UTC 2026: Enabling and checking wifi
+Sat Jun 20 05:16:26 UTC 2026: Connected to wifi
+Sat Jun 20 05:16:26 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 05:16:26 UTC 2026: Ping worked successfully
+Sat Jun 20 05:16:35 UTC 2026: Download result 
+Sat Jun 20 05:16:35 UTC 2026: Screen saver image file updated
+Sat Jun 20 05:16:37 UTC 2026: Removed temporary files
+Sat Jun 20 05:16:48 UTC 2026: SUCCESS, will update again on 1781936198
+Sat Jun 20 06:16:50 UTC 2026: START NEW LOOP
+Sat Jun 20 06:16:50 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 06:16:50 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 06:16:51 UTC 2026: Battery: isCharging=0 percentage=94% current=-70 mA
+Sat Jun 20 06:16:51 UTC 2026: Remaining battery 94
+Sat Jun 20 06:16:51 UTC 2026: Enabling and checking wifi
+Sat Jun 20 06:16:52 UTC 2026: Connected to wifi
+Sat Jun 20 06:16:52 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 06:16:52 UTC 2026: Ping worked successfully
+Sat Jun 20 06:17:01 UTC 2026: Download result 
+Sat Jun 20 06:17:01 UTC 2026: Screen saver image file updated
+Sat Jun 20 06:17:04 UTC 2026: Removed temporary files
+Sat Jun 20 06:17:14 UTC 2026: SUCCESS, will update again on 1781939824
+Sat Jun 20 07:17:16 UTC 2026: START NEW LOOP
+Sat Jun 20 07:17:16 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 07:17:16 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 07:17:17 UTC 2026: Battery: isCharging=0 percentage=94% current=-59 mA
+Sat Jun 20 07:17:17 UTC 2026: Remaining battery 94
+Sat Jun 20 07:17:17 UTC 2026: Enabling and checking wifi
+Sat Jun 20 07:17:18 UTC 2026: Connected to wifi
+Sat Jun 20 07:17:18 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 07:17:18 UTC 2026: Ping worked successfully
+Sat Jun 20 07:17:27 UTC 2026: Download result 
+Sat Jun 20 07:17:27 UTC 2026: Screen saver image file updated
+Sat Jun 20 07:17:29 UTC 2026: Removed temporary files
+Sat Jun 20 07:17:40 UTC 2026: SUCCESS, will update again on 1781943450
+Sat Jun 20 08:17:42 UTC 2026: START NEW LOOP
+Sat Jun 20 08:17:42 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 08:17:42 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 08:17:43 UTC 2026: Battery: isCharging=0 percentage=94% current=-66 mA
+Sat Jun 20 08:17:43 UTC 2026: Remaining battery 94
+Sat Jun 20 08:17:43 UTC 2026: Enabling and checking wifi
+Sat Jun 20 08:17:44 UTC 2026: Connected to wifi
+Sat Jun 20 08:17:44 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 08:17:44 UTC 2026: Ping worked successfully
+Sat Jun 20 08:17:52 UTC 2026: Download result 
+Sat Jun 20 08:17:53 UTC 2026: Screen saver image file updated
+Sat Jun 20 08:17:55 UTC 2026: Removed temporary files
+Sat Jun 20 08:18:06 UTC 2026: SUCCESS, will update again on 1781947076
+Sat Jun 20 09:18:08 UTC 2026: START NEW LOOP
+Sat Jun 20 09:18:08 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 09:18:08 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 09:18:09 UTC 2026: Battery: isCharging=0 percentage=94% current=-57 mA
+Sat Jun 20 09:18:09 UTC 2026: Remaining battery 94
+Sat Jun 20 09:18:09 UTC 2026: Enabling and checking wifi
+Sat Jun 20 09:18:10 UTC 2026: Connected to wifi
+Sat Jun 20 09:18:10 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 09:18:10 UTC 2026: Ping worked successfully
+Sat Jun 20 09:18:19 UTC 2026: Download result 
+Sat Jun 20 09:18:19 UTC 2026: Screen saver image file updated
+Sat Jun 20 09:18:21 UTC 2026: Removed temporary files
+Sat Jun 20 09:18:32 UTC 2026: SUCCESS, will update again on 1781950702
+Sat Jun 20 10:18:33 UTC 2026: START NEW LOOP
+Sat Jun 20 10:18:34 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 10:18:34 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 10:18:35 UTC 2026: Battery: isCharging=0 percentage=94% current=-52 mA
+Sat Jun 20 10:18:35 UTC 2026: Remaining battery 94
+Sat Jun 20 10:18:35 UTC 2026: Enabling and checking wifi
+Sat Jun 20 10:18:35 UTC 2026: Connected to wifi
+Sat Jun 20 10:18:35 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 10:18:36 UTC 2026: Ping worked successfully
+Sat Jun 20 10:18:44 UTC 2026: Download result 
+Sat Jun 20 10:18:44 UTC 2026: Screen saver image file updated
+Sat Jun 20 10:18:47 UTC 2026: Removed temporary files
+Sat Jun 20 10:18:57 UTC 2026: SUCCESS, will update again on 1781954327
+Sat Jun 20 11:18:59 UTC 2026: START NEW LOOP
+Sat Jun 20 11:18:59 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 11:19:00 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 11:19:05 UTC 2026: Battery: isCharging=0 percentage=93% current=-19 mA
+Sat Jun 20 11:19:05 UTC 2026: Remaining battery 93
+Sat Jun 20 11:19:05 UTC 2026: Enabling and checking wifi
+Sat Jun 20 11:19:06 UTC 2026: Connected to wifi
+Sat Jun 20 11:19:06 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 11:19:06 UTC 2026: Ping worked successfully
+Sat Jun 20 11:19:27 UTC 2026: Download result 
+Sat Jun 20 11:19:27 UTC 2026: Screen saver image file updated
+Sat Jun 20 11:19:30 UTC 2026: Removed temporary files
+Sat Jun 20 11:19:40 UTC 2026: SUCCESS, will update again on 1781957970
+Sat Jun 20 12:19:42 UTC 2026: START NEW LOOP
+Sat Jun 20 12:19:43 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 12:19:43 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 12:19:44 UTC 2026: Battery: isCharging=0 percentage=93% current=-9 mA
+Sat Jun 20 12:19:44 UTC 2026: Remaining battery 93
+Sat Jun 20 12:19:44 UTC 2026: Enabling and checking wifi
+Sat Jun 20 12:19:44 UTC 2026: Connected to wifi
+Sat Jun 20 12:19:44 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 12:19:45 UTC 2026: Ping worked successfully
+Sat Jun 20 12:19:53 UTC 2026: Download result 
+Sat Jun 20 12:19:53 UTC 2026: Screen saver image file updated
+Sat Jun 20 12:19:56 UTC 2026: Removed temporary files
+Sat Jun 20 12:20:06 UTC 2026: SUCCESS, will update again on 1781961596
+Sat Jun 20 13:20:08 UTC 2026: START NEW LOOP
+Sat Jun 20 13:20:08 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 13:20:08 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 13:20:09 UTC 2026: Battery: isCharging=0 percentage=93% current=-56 mA
+Sat Jun 20 13:20:09 UTC 2026: Remaining battery 93
+Sat Jun 20 13:20:09 UTC 2026: Enabling and checking wifi
+Sat Jun 20 13:20:10 UTC 2026: Connected to wifi
+Sat Jun 20 13:20:10 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 13:20:10 UTC 2026: Ping worked successfully
+Sat Jun 20 13:20:18 UTC 2026: Download result 
+Sat Jun 20 13:20:19 UTC 2026: Screen saver image file updated
+Sat Jun 20 13:20:21 UTC 2026: Removed temporary files
+Sat Jun 20 13:20:31 UTC 2026: SUCCESS, will update again on 1781965221
+Sat Jun 20 14:20:33 UTC 2026: START NEW LOOP
+Sat Jun 20 14:20:33 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 14:20:34 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 14:20:35 UTC 2026: Battery: isCharging=0 percentage=93% current=-62 mA
+Sat Jun 20 14:20:35 UTC 2026: Remaining battery 93
+Sat Jun 20 14:20:35 UTC 2026: Enabling and checking wifi
+Sat Jun 20 14:20:35 UTC 2026: Connected to wifi
+Sat Jun 20 14:20:35 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 14:20:35 UTC 2026: Ping worked successfully
+Sat Jun 20 14:20:44 UTC 2026: Download result 
+Sat Jun 20 14:20:44 UTC 2026: Screen saver image file updated
+Sat Jun 20 14:20:47 UTC 2026: Removed temporary files
+Sat Jun 20 14:20:57 UTC 2026: SUCCESS, will update again on 1781968847
+Sat Jun 20 15:20:59 UTC 2026: START NEW LOOP
+Sat Jun 20 15:20:59 UTC 2026: Set CPU scaling governer to powersave
+Sat Jun 20 15:21:00 UTC 2026: Set prevent screen saver to true
+Sat Jun 20 15:21:00 UTC 2026: Battery: isCharging=0 percentage=93% current=-58 mA
+Sat Jun 20 15:21:01 UTC 2026: Remaining battery 93
+Sat Jun 20 15:21:01 UTC 2026: Enabling and checking wifi
+Sat Jun 20 15:21:01 UTC 2026: Connected to wifi
+Sat Jun 20 15:21:01 UTC 2026: Found default gateway 192.168.178.1
+Sat Jun 20 15:21:01 UTC 2026: Ping worked successfully
+Sat Jun 20 15:21:10 UTC 2026: Download result 
+Sat Jun 20 15:21:10 UTC 2026: Screen saver image file updated
+Sat Jun 20 15:21:13 UTC 2026: Removed temporary files
+Sat Jun 20 15:21:23 UTC 2026: SUCCESS, will update again on 1781972473

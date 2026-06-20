@@ -1,0 +1,9 @@
+{
+	"items": [
+		{
+			"name": "KKarousel",
+			"priority": -999,
+        	"action": "./script.sh"
+		}
+	]
+}
