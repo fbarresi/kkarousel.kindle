@@ -20,11 +20,6 @@ sleep 5
 sleep 5
 
 /usr/sbin/eips 0 24 'Checking if Python is installed...'
-sleep 1
-python3 download.py
-eips -f -g cover.png
-DATE=$(date +"%d %B %Y %-H:%-M")
-eips 1 39 "$DATE"
 
 if python -c ""; then
 	/usr/sbin/eips 0 25 'Installed'
@@ -34,6 +29,12 @@ else
 	/usr/sbin/eips 0 27 'Press Home button to exit...'
 	exit 1
 fi
+
+sleep 1
+python3 download.py
+eips -f -g cover.png
+DATE=$(date +"%d %B %Y %-H:%-M")
+eips 1 39 "$DATE"
 
 
 /usr/sbin/eips 0 37 'You are ready to start!'
