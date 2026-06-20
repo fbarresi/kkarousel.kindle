@@ -1,3 +1,6 @@
 import filecmp
 
-print(filecmp.cmp('cover.png','cover.temp.png'))
+try:
+	print(filecmp.cmp('cover.png','cover.temp.png'))
+except:
+	print(False)
