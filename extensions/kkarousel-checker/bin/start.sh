@@ -15,7 +15,7 @@ sleep 5
 /usr/sbin/eips 11 18 'kkrousel'
 /usr/sbin/eips 11 19 'github.com/fbarresi/kkarousel.kindle'
 /usr/sbin/eips 6 20 'This program will check prerequisites'
-/usr/sbin/eips 9 21 'for kkarousel.kindle'
+/usr/sbin/eips 7 21 'for kkarousel.kindle'
 /usr/sbin/eips 0 23 '--------------------------------------------------'
 sleep 5
 
@@ -37,5 +37,5 @@ DATE=$(date +"%d %B %Y %-H:%-M")
 eips 1 39 "$DATE"
 
 
-/usr/sbin/eips 0 37 'You are ready to start!'
+/usr/sbin/eips 0 37 'You are ready to start'
 /usr/sbin/eips 0 38 'Press Home button to exit...'
