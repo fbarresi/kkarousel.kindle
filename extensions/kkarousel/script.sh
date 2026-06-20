@@ -175,8 +175,8 @@ while true; do
         logger "Download result ${DOWNLOADRESULT}"
         echo "$DOWNLOADRESULT"
         if [ ${DOWNLOADSTATUS} -eq 0 ]; then
-            GETNEWIMAGE=$(get_new_image 2>&1)
-            if [ ${GETNEWIMAGE} -eq 0 ]; then
+            SAMEIMAGE=$(python3 compare_cover.py)
+            if [ ${SAMEIMAGE} = "False" ]; then
                 mv $TMPFILE $SCREENSAVERFILE
                 logger "Screen saver image file updated"
                 if [ ${CLEAR_SCREEN_BEFORE_RENDER} -eq 1 ]; then
