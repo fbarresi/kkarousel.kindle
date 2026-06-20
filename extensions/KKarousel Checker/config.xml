@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension>
     <information>
-        <name>Kindle Weather Stand Dependicies Checker</name>
+        <name>KKarousel Checker</name>
         <version>1.0</version>
-        <author>x-magic</author>
-        <id>kindleweatherstandalonedependicieschecker</id>
+        <author>fbarresi</author>
+        <id>kkarouselchecker</id>
     </information>
     <menus>
         <menu type="json" dynamic="true">menu.json</menu>

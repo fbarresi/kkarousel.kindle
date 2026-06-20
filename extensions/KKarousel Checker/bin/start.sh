@@ -12,10 +12,10 @@ sleep 5
 # Clean up display, show initialisation message
 /usr/sbin/eips -c
 /usr/sbin/eips -c
-/usr/sbin/eips 11 18 'Kindle Weather Stand Project'
-/usr/sbin/eips 15 19 'https://git.io/vDVgT'
+/usr/sbin/eips 11 18 'kkrousel'
+/usr/sbin/eips 15 19 'github.com/fbarresi/kkarousel.kindle'
 /usr/sbin/eips 6 20 'This program will check prerequisites'
-/usr/sbin/eips 9 21 'for Kindle Weather Stand Project'
+/usr/sbin/eips 9 21 'for kkarousel.kindle'
 /usr/sbin/eips 0 23 '--------------------------------------------------'
 sleep 5
 
@@ -27,18 +27,14 @@ DATE=$(date +"%d %B %Y %-H:%-M")
 eips 1 39 "$DATE"
 
 if python -c ""; then
-	/usr/sbin/eips 36 25 'Installed'
+	/usr/sbin/eips 0 25 'Installed'
 else
-	/usr/sbin/eips 36 25 'Failed'
+	/usr/sbin/eips 0 25 'Failed'
 	/usr/sbin/eips 0 26 'You need Kindle Python to use Weather Stand'
 	/usr/sbin/eips 0 27 'Press Home button to exit...'
 	exit 1
 fi
 
-/usr/sbin/eips 0 25 'Checking if pytz is installed... (skipped)'
 
-
-
-/usr/sbin/eips 0 37 'You are ready to start Weather Stand'
-#/usr/sbin/eips 0 38 'You may delete this checker program from KUAL'
+/usr/sbin/eips 0 37 'You are ready to start!'
 /usr/sbin/eips 0 38 'Press Home button to exit...'

@@ -1,7 +1,7 @@
 {
     "items": [
     {
-        "name": "Kindle Weather Stand Dependicies Checker",
+        "name": "KKarousel Checker",
         "priority": -999,
         "action": "./bin/start.sh > debug.log 2>&1"
     }
