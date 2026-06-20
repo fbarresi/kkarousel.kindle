@@ -175,13 +175,18 @@ while true; do
         logger "Download result ${DOWNLOADRESULT}"
         echo "$DOWNLOADRESULT"
         if [ ${DOWNLOADSTATUS} -eq 0 ]; then
-            mv $TMPFILE $SCREENSAVERFILE
-            logger "Screen saver image file updated"
-            if [ ${CLEAR_SCREEN_BEFORE_RENDER} -eq 1 ]; then
-                eips -c
-                sleep 1
+            GETNEWIMAGE=$(get_new_image 2>&1)
+            if [ ${GETNEWIMAGE} -eq 0 ]; then
+                mv $TMPFILE $SCREENSAVERFILE
+                logger "Screen saver image file updated"
+                if [ ${CLEAR_SCREEN_BEFORE_RENDER} -eq 1 ]; then
+                    eips -c
+                    sleep 1
+                fi
+                eips -f -g ${SCREENSAVERFILE}
+            else
+                logger "Screen saver image file not updated because identical"
             fi
-            eips -f -g ${SCREENSAVERFILE}
         else
             logger "Error updating screensaver"
             if [ ${CLEAR_SCREEN_BEFORE_RENDER} -eq 1 ]; then

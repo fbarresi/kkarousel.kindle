@@ -13,7 +13,7 @@ sleep 5
 /usr/sbin/eips -c
 /usr/sbin/eips -c
 /usr/sbin/eips 11 18 'kkrousel'
-/usr/sbin/eips 15 19 'github.com/fbarresi/kkarousel.kindle'
+/usr/sbin/eips 11 19 'github.com/fbarresi/kkarousel.kindle'
 /usr/sbin/eips 6 20 'This program will check prerequisites'
 /usr/sbin/eips 9 21 'for kkarousel.kindle'
 /usr/sbin/eips 0 23 '--------------------------------------------------'

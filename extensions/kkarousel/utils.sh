@@ -40,21 +40,13 @@ wait_ping() {
 }
 
 download_image() {
-    DOWNLOAD_URI=$IMAGE_URI
     rm "$TMPFILE" -f
 
-    if [ -n "$BASIC_AUTH_USERNAME" ] || [ -n "$BASIC_AUTH_PASSWORD" ]; then
-        case "$IMAGE_URI" in
-        http://*)
-            DOWNLOAD_URI="http://${BASIC_AUTH_USERNAME}:${BASIC_AUTH_PASSWORD}@${IMAGE_URI#http://}"
-            ;;
-        *)
-            logger "Basic auth is configured, but IMAGE_URI does not start with http://"
-            ;;
-        esac
-    fi
     python3 download.py
-    #wget -q "$DOWNLOAD_URI" -O "$TMPFILE"
+}
+
+get_new_image() {
+    python3 compare_cover.py
 }
 
 logger() {
