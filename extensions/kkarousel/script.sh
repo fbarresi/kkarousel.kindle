@@ -28,6 +28,8 @@ CHARGING_ERROR_COUNT=0
 CHARGING_RECOVERY_FILE="${SCRIPTDIR}/charging-recovery-attempts"
 CHARGING_REBOOT_LIMIT=2
 
+rm ${SCREENSAVERFILE} -f
+
 while true; do
     echo "Starting new loop"
     logger "START NEW LOOP"
@@ -204,7 +206,7 @@ while true; do
             eips 2 2 -h " Battery at ${CHECKBATTERY}%, please charge "
         fi
 
-        eips 1 39 "$(date +"%d %B %Y %-H:%-M") - battery ${CHECKBATTERY}%  "
+        eips 0 39 " $(date +"%d %B %Y %-H:%-M") - battery: ${CHECKBATTERY}/100  "
     fi
 
     sleep $DELAY_BEFORE_SUSPEND
