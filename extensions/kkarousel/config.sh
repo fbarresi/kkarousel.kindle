@@ -1,6 +1,6 @@
 #!/bin/sh
 
-INTERVAL=3600                           # (sec) - how often to update the script
+INTERVAL=7200                           # (sec) - how often to update the script
 CLEAR_SCREEN_BEFORE_RENDER=1            # If "1", then the screen is completely cleared before rendering the newly fetched image to avoid "shadows".
 INTERVAL_ON_ERROR=30                    # In case of errors, the device waits this long until the next loop.
 BATTERYALERT=15                         # if the battery level is equal to or below this threshold, a info will be displayed

@@ -195,7 +195,7 @@ while true; do
                 eips -c
                 sleep 1
             fi
-            eips -f -g ${LIMGERR} #show error picture
+            #eips -f -g ${LIMGERR} #show error picture
             ERROR_SUSPEND=1       #short sleep time will be activated
         fi
 
